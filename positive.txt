@@ -1,0 +1,102 @@
+Record revenue,8
+Sales increase,5
+Earnings beat,8
+Upbeat guidance,2
+Accepted,5
+Acquire,5
+Acquired,5
+Acquires,5
+Agreement,5
+Approval,6
+Awarded,4
+Benifical,2
+Benifits,2
+Billonaire,2
+Breakout,2
+Cancer,5
+Carl Ichan,2
+Completes,4
+Contract,2
+Drug Trials,3
+Endpoints,2
+enters into,5
+Exclusive,2
+Fast Track,2
+FDA clearance,6
+FDA approval,6
+FDA approved,6
+FDA Authorization,6
+buyout,5
+cash deal,5
+Licensing Deal,4
+Gain,3
+Gains,3
+Grants,3
+Improvements,2
+Increase,3
+Joint Venture,4
+Merger,8
+Acquisition,5
+Partners,3
+Patent,4
+Patient,2
+Phase 1,5
+Phase 2,5
+Phase 3,5
+Phase I,5
+Phase II,6
+Phase III,6
+Positive,3
+pre-clinical,3
+clinical testing,3
+gene therapy,3
+regulatory approval,4
+Primary,2
+priority review,3
+increased sales,5
+Promising,2
+Purchases,5
+Reverse Stock,5
+Receives,2
+Receives approval,8
+Signs,2
+Successful,4
+USPTO,4
+Blockchain,2
+COVID19,8
+COVID-19,8
+Treat,3
+Treated,3
+Treatement,3
+Treats,3
+Hospitals,3
+Hospital,3
+Success,3
+U.S. Patent,4
+masks,4
+sanitizer,4
+product,2
+launches production,5
+Multiple InVerde Orders,3
+uplisting,6
+Multiple Orders,3
+bitcoin,3
+ethereum,3
+digital currency,3
+digital business,3
+surges,3
+surge,3
+massive,3
+large,3
+huge,3
+strong,3
+growth,3
+results,2
+result,2
+gross profit up,5
+Revenues Increase,5
+long term,3
+long-term,3
+service contract,2
+renewal,2
+Trial,2
